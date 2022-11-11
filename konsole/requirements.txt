@@ -1,0 +1,6 @@
+win10toast
+colorama
+pathlib
+pywin32
+pyautogui
+keyboard
